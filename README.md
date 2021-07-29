@@ -1,5 +1,5 @@
 # Auto-complete-Suggestions-
-REST API endpoint that provides auto-complete suggestions for large cities.
+
 
 REST API endpoint that provides auto-complete suggestions for large cities
 
